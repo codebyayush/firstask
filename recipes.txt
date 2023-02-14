@@ -1,2 +1,3 @@
 Recipe 1: Kheer
 Recipe 2: Halwa
+Recipe 3: Smoothie
